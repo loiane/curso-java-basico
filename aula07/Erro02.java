@@ -4,6 +4,6 @@ class Erro02 {
 
 		int cont = 0;
 
-		System.out.println("Você digitou " + cont);
+		System.out.println("Voce digitou: " + cont);
 	}
 }

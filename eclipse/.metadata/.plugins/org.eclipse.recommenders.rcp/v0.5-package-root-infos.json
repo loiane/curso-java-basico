@@ -21,7 +21,7 @@
       "qualifier": ""
     },
     "jarFileFingerprint": "d57b4588c1c302ad017b0cf25de95dfb1b22e8fc",
-    "jarFileModificationDate": "2013-11-17T14:41:25-02:00",
+    "jarFileModificationDate": "2014-01-26T14:24:07-02:00",
     "location": "/System/Library/Java/Extensions/MRJToolkit.jar",
     "javaRuntime": true
   },
@@ -189,9 +189,9 @@
       "micro": 0,
       "qualifier": ""
     },
-    "jarFileFingerprint": "d1bab2162b3240f100212fea8ef4aa65df36689d",
-    "jarFileModificationDate": "2013-07-22T01:20:34-03:00",
-    "location": "/System/Library/Java/Extensions/QTJava.zip",
+    "jarFileFingerprint": "f0175c4c28f08b9236108499c33d6542c0bcd8b4",
+    "jarFileModificationDate": "2013-08-07T23:15:41-03:00",
+    "location": "/System/Library/Java/Extensions/j3daudio.jar",
     "javaRuntime": true
   },
   {
@@ -202,9 +202,9 @@
       "micro": 0,
       "qualifier": ""
     },
-    "jarFileFingerprint": "f0175c4c28f08b9236108499c33d6542c0bcd8b4",
-    "jarFileModificationDate": "2013-08-07T23:15:41-03:00",
-    "location": "/System/Library/Java/Extensions/j3daudio.jar",
+    "jarFileFingerprint": "3992b52876ea5c35473e170f78781d8be91c6dd2",
+    "jarFileModificationDate": "2013-11-23T21:15:25-02:00",
+    "location": "/System/Library/Java/Extensions/QTJava.zip",
     "javaRuntime": true
   },
   {
@@ -293,9 +293,9 @@
       "micro": 0,
       "qualifier": ""
     },
-    "jarFileFingerprint": "63fbdd9c7e93573cc15ee487950217886be2aef6",
-    "jarFileModificationDate": "2013-11-17T14:41:27-02:00",
-    "location": "/System/Library/Java/Extensions/dns_sd.jar",
+    "jarFileFingerprint": "b4085004247b082b1d95f3bbf47cee40f03d3f09",
+    "jarFileModificationDate": "2013-10-08T10:24:31-03:00",
+    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar",
     "javaRuntime": true
   },
   {
@@ -306,9 +306,9 @@
       "micro": 0,
       "qualifier": ""
     },
-    "jarFileFingerprint": "b4085004247b082b1d95f3bbf47cee40f03d3f09",
-    "jarFileModificationDate": "2013-10-08T10:24:31-03:00",
-    "location": "/Library/Java/JavaVirtualMachines/jdk1.7.0_45.jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar",
+    "jarFileFingerprint": "63fbdd9c7e93573cc15ee487950217886be2aef6",
+    "jarFileModificationDate": "2014-01-26T14:24:10-02:00",
+    "location": "/System/Library/Java/Extensions/dns_sd.jar",
     "javaRuntime": true
   }
 ]
