@@ -1,6 +1,6 @@
 package com.loiane.cursojava.aula10;
 
-public class Variaveis {
+public class Variaveis2 {
 
 	public static void main(String[] args) {
 		
