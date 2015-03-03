@@ -17,5 +17,6 @@ public class Exer21 {
         
         Scanner scan = new Scanner(System.in);
         
+        //N/A
     }    
 }
