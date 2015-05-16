@@ -6,7 +6,7 @@
 		<item value="867" key="DIALOG_WIDTH"/>
 		<item value="1|.Helvetica Neue DeskInterface|11.0|0|COCOA|1|.HelveticaNeueDeskInterface-Regular" key="DIALOG_FONT_NAME"/>
 		<item value=", org.eclipse.jdt.launching.localJavaApplication, " key="org.eclipse.debug.ui.EXPANDED_NODES"/>
-		<item value="839" key="DIALOG_HEIGHT"/>
+		<item value="773" key="DIALOG_HEIGHT"/>
 		<item value="762" key="org.eclipse.debug.ui.DIALOG_SASH_WEIGHTS_2"/>
 		<item value="237" key="org.eclipse.debug.ui.DIALOG_SASH_WEIGHTS_1"/>
 	</section>
