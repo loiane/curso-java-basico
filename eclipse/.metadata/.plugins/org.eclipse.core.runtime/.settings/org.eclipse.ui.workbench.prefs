@@ -1,7 +1,0 @@
-//org.eclipse.ui.commands/state/org.eclipse.wst.xml.views.XPathView.processor.xpathprocessor/org.eclipse.ui.commands.radioState=xpath10
-ColorsAndFontsPreferencePage.expandedCategories=Torg.eclipse.ui.workbenchMisc
-ColorsAndFontsPreferencePage.selectedElement=Forg.eclipse.jface.textfont
-ENABLED_DECORATORS=org.eclipse.m2e.core.mavenVersionDecorator\:false,org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator\:true,org.eclipse.jdt.ui.override.decorator\:true,org.eclipse.jdt.ui.interface.decorator\:false,org.eclipse.jdt.ui.buildpath.decorator\:true,org.eclipse.m2e.core.maven2decorator\:true,org.eclipse.mylyn.context.ui.decorator.interest\:true,org.eclipse.mylyn.tasks.ui.decorators.task\:true,org.eclipse.mylyn.team.ui.changeset.decorator\:true,org.eclipse.team.cvs.ui.decorator\:true,org.eclipse.ui.LinkedResourceDecorator\:true,org.eclipse.ui.SymlinkDecorator\:true,org.eclipse.ui.VirtualResourceDecorator\:true,org.eclipse.ui.ContentTypeDecorator\:true,org.eclipse.ui.ResourceFilterDecorator\:false,
-PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.m2e.discovery;
-eclipse.preferences.version=1
-org.eclipse.jface.textfont=1|Monaco|18.0|0|COCOA|1|Monaco;
