@@ -73,3 +73,7 @@ eclipse/.metadata/.plugins/org.eclipse.recommenders.rcp/v0.5-package-root-infos.
 eclipse/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml
 
 eclipse/curso-java-basico/.settings/org.eclipse.core.resources.prefs
+
+eclipse/curso-java-basico/.idea/.name
+
+eclipse/curso-java-basico/curso-java-basico.iml
