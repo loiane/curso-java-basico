@@ -2,14 +2,14 @@ package com.loiane.cursojava.aula44;
 
 public class Gato extends Mamifero implements AnimalDomesticado, AnimalEstimacao {
 
-	private String raça;
+	private String racao;
 
-	public String getRaça() {
-		return raça;
+	public String getRacao() {
+		return racao;
 	}
 
-	public void setRaça(String raça) {
-		this.raça = raça;
+	public void setRacao(String racao) {
+		this.racao = racao;
 	}
 
 	@Override
