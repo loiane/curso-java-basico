@@ -49,7 +49,7 @@ public class JogoDaVelha {
     
     public boolean validarJogada(int linha, int coluna, char sinal) {
 
-        if (jogoVelha[linha][coluna] == sinal || jogoVelha[linha][coluna] == 'O') {
+        if (jogoVelha[linha][coluna] == 'X' || jogoVelha[linha][coluna] == 'O') {
             return false;
 
         } else { //jogada válida
