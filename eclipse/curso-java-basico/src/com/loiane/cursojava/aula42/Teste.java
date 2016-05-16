@@ -16,7 +16,7 @@ public class Teste {
 		System.out.println(Contantes.URL_BLOG);
 		
 		final int TOTAL = 1; 
-		//total = total = 1;
+		//total = total + 1;
 		System.out.println(TOTAL);
 	}
 
