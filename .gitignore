@@ -79,3 +79,11 @@ eclipse/curso-java-basico/.idea/.name
 eclipse/curso-java-basico/curso-java-basico.iml
 
 eclipse/RemoteSystemsTempFiles/.project
+
+.metadata/.lock
+
+.metadata/
+
+.recommenders/
+
+RemoteSystemsTempFiles/
