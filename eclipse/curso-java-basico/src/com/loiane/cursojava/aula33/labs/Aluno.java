@@ -140,7 +140,7 @@ public class Aluno {
         this.nomeDisciplinas[pos] = nomeDisciplina;
     }
     
-    public void setNomePosIJ(int posI, int posJ, double nota){
+    public void setNotaDisciplinaPosIJ(int posI, int posJ, double nota){
         this.notasDisciplinas[posI][posJ] = nota;
     }
 }
