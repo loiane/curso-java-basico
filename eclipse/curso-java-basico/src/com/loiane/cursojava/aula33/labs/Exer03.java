@@ -38,7 +38,7 @@ public class Exer03 {
             System.out.println("Obtendo notas da disciplina " + aluno.getNomeDisciplinas()[i]);
             for (int j=0; j<aluno.getNotasDisciplinas()[i].length; j++){
                 System.out.println("Entre com a nota " + (j+1));
-                aluno.setNomePosIJ(i, j, scan.nextDouble());
+                aluno.setNotaDisciplinaPosIJ(i, j, scan.nextDouble());
             }
         }
         
