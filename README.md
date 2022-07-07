@@ -12,17 +12,4 @@ Código fonte apresentado no curso de Java gratuito do blog loiane.com
 * Link das aulas do netbeans [clique aqui](https://github.com/loiane/curso-java-basico/tree/master/netbeans/curso-java-basico/src/com/loiane/cursojava)
 
 ### Listas de exercícios
-* Exercícios Aulas 11 12 13 https://pt2.slideshare.net/loianeg/curso-java-bsico-exerccios-aulas-11-12-13
-* Exercicios Aulas 14 15 https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-14-15
-* Exercicios Aulas 16 17 https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-16-17
-* Exercicios Aula 19 https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-19
-* Exercicios Aula 20 https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-20
-* Exercicios Aula 24 https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-24
-* Exercicios Aulas 25 a 27 https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-25-a-27
-* Exercicios Aulas 28 a 33 https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-28-a-33
-* Exercicios Aula 34 https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-34
-* Exercicios Aula 35 https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-35
-* Exercicios Aula 36 https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aula-36
-* Exercicios Aulas 36 a 43 https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-36-a-43
-* Exercicios Aulas 44 a 46 https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-44-a-46
-* Exercicios Aulas 47 a 52 https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-47-a-52
+* [https://github.com/loiane/curso-java-basico/tree/master/exercicios](https://github.com/loiane/curso-java-basico/tree/master/exercicios)
