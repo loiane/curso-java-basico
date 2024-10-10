@@ -41,7 +41,7 @@ public class Exer22 {
         double precoTotalMorango = qtdMorango * precoKgMorango;
         double precoTotalMaca = qtdMaca * precoKgMaca;
         
-        double precoParcial = precoKgMorango + precoKgMaca;
+        double precoParcial = precoTotalMorango + precoTotalMaca;
         double precoTotal = precoParcial;
         
         if ((qtdMorango + qtdMaca > 8) || precoParcial > 25){
