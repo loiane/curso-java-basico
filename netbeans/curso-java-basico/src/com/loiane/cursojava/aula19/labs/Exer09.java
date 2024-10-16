@@ -33,7 +33,7 @@ public class Exer09 {
         }
         
         for (int i=0; i<vetorC.length; i++){
-            vetorC[i] = vetorA[i] / vetorB[i];
+            vetorC[i] = (double) vetorA[i] / vetorB[i];
         }
         
         System.out.print("Vetor A = ");
@@ -52,7 +52,7 @@ public class Exer09 {
         
         System.out.print("Vetor C = ");
         for (int i=0; i<vetorC.length; i++){
-            System.out.print(vetorC[i] + " ");
+            System.out.print(decimalFormat.format(vetorC[i]) + " ");
         }
         System.out.println();
     }    
