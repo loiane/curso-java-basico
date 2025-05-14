@@ -29,7 +29,7 @@ public class Exer26 {
         
         for (int i=0; i<vetorB.length; i++){
             
-            System.out.println("Entre com um número para a posição A = " + i);
+            System.out.println("Entre com um número para a posição B = " + i);
             vetorB[i] = scan.nextInt();
             
             if (vetorA[i] == vetorB[i]){
